@@ -6,19 +6,19 @@ def breakfast(cereal = "frosted flakes")
   puts "Breakfast is the best time for #{cereal}"
 end
 
-breakfast("frosted flakes")
+
   
 def lunch(sandwich = "grilled cheese")
 puts "Lunch is the best time for #{sandwich}"
 end
 
-lunch("grilled cheese")
+
 
 def dinner(food = salmon)
   puts "Dinner is the best time for #{food}"
 end
 
-dinner("salmon")
+
 
 
 
@@ -31,6 +31,9 @@ dinner("salmon")
 
 # # call your methods here
 
+breakfast("frosted flakes")
+lunch("grilled cheese")
+dinner("salmon")
 
 # # Call your methods without any arguments here
 # puts snacks
