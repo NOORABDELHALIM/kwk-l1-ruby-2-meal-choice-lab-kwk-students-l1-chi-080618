@@ -6,19 +6,19 @@ def breakfast(cereal = "frosted flakes")
   puts "Breakfast is the best time for #{cereal}"
 end
 
-def breakfast("frosted flakes")
+breakfast("frosted flakes")
   
 def lunch(sandwich = "grilled cheese")
 puts "Lunch is the best time for #{sandwhich}"
 end
 
-def lunch("grilled cheese")
+lunch("grilled cheese")
 
 def dinner(food = salmon)
   puts "Dinner is the best time for #{food}"
 end
 
-def dinner("salmon")
+dinner("salmon")
 
 
 
