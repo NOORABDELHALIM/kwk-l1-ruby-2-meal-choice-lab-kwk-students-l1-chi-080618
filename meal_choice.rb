@@ -31,9 +31,9 @@ end
 
 # # call your methods here
 
-breakfast("frosted flakes")
-lunch("grilled cheese")
-dinner("salmon")
+breakfast("waffles")
+lunch("panini")
+dinner("chicken")
 
 # # Call your methods without any arguments here
 # puts snacks
